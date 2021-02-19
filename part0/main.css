@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(12 3 4);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(186 2 4);
+    text-align: center;
+    text-shadow: 2px 2px 2.8px white;
+}
+img {
+    max-width: 800px;
+    display: block;
+    margin: 0 auto; 
+    border-radius: 6px;
+}
+
+.ferrari-content {
+    color: rgb(213 213 213);
+    max-width: 700px;
+    padding: 50px;
+    margin-left: 40px;
+}
+
+blockquote {
+    font-style: italic;
+}
